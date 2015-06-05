@@ -1,0 +1,11 @@
+build/
+.gradle/
+target/
+project/target/
+.cache
+.cache-main
+.classpath
+.idea
+.project
+bin
+*.sublime*
