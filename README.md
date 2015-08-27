@@ -1,6 +1,6 @@
 # MagneticTest
 
-![Screenshot](/screenshot.png?raw=true)
+![Screenshot](/screenshot.jpg?raw=true)
 
 ## Building and running
 ```
