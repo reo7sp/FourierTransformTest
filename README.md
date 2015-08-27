@@ -1,4 +1,4 @@
-# MagneticTest
+# FourierTransformTest
 
 ![Screenshot](/screenshot.jpg?raw=true)
 
